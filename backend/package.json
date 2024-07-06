@@ -1,0 +1,16 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "chromadb": "^1.8.1",
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "fs-extra": "^10.1.0",
+        "local-ollamam-rag": "file:..",
+        "pdf-parse": "^1.1.1"
+    }
+}

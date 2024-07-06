@@ -1,0 +1,19 @@
+exlo-rag/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── FileSelector.js
+│   │   │   ├── FileList.js
+│   │   │   ├── ControlPanel.js
+│   │   │   └── Footer.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   ├── package.json
+│   ├── Dockerfile
+├── backend/
+│   ├── index.js
+│   ├── package.json
+│   ├── Dockerfile
+├── docker-compose.yml
